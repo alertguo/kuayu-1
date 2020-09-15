@@ -15,6 +15,6 @@
 ```
 6.打开两个页面
 
-qq.com:8888/index.html 和 frank.com:9999/index.html
+qq.com:8888/index.html 和 alert.com:9999/index.html
 
 7.记得做完之后，删掉 hosts 里的两行，否则 qq.com 无法正常访问！
